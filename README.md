@@ -7,13 +7,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/abhishekkumar15620041/zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/abhishekkumar15620041/zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/abhishekkumar15620041/zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Abhishek Kumar?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/abhishekkumar15620041/zphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -63,8 +63,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull abhishekkumar15620041/zphisher
+$ docker run --rm -it abhishekkumar15620041/zphisher
 ```
 
 ### Dependencies
@@ -88,21 +88,13 @@ $ docker run --rm -it htrtech/zphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**Yisus7u7**](https://github.com/Yisus7u7)
-- [**sepp0**](https://github.com/sepp0)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
 
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.comabhishekkumar15620041" target="_blank"><img src="https://img.shields.io/badge/Github-abhishekkumar15620041-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/riskyboy97174" target="_blank"><img src="https://img.shields.io/badge/IG-%40@Abhishek Kumar-red?style=for-the-badge&logo=instagram"></a>
+  
 </p>
 
