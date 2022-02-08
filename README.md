@@ -93,7 +93,7 @@ $ docker run --rm -it abhishekkumar15620041/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.comabhishekkumar15620041" target="_blank"><img src="https://img.shields.io/badge/Github-abhishekkumar15620041-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/abhishekkumar15620041" target="_blank"><img src="https://img.shields.io/badge/Github-abhishekkumar15620041-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/riskyboy97174" target="_blank"><img src="https://img.shields.io/badge/IG-%40@Abhishek Kumar-red?style=for-the-badge&logo=instagram"></a>
   
 </p>
